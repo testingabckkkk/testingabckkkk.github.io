@@ -1,11 +1,12 @@
 {
-  "homepage": "https://testingabckkkk.github.io
-",
+  
 
   "private": false,
   "entry": {
     "index": "./index.js"
   },
+  "homepage": "https://testingabckkkk.github.io/",
+  
   "dependencies": {
     "antd": "^3.0.0",
     "enquire-js": "^0.1.0",
